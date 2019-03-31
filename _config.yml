@@ -4,21 +4,21 @@ SEOTitle: 诸葛冰箱的博客 | 诸葛冰箱
 header-img: img/post-bg-desk.jpg
 email: djjn1314@163.com
 description: "Every failure is leading towards success."
-keyword: "诸葛冰箱 Blog, 诸葛冰箱的博客, 诸葛冰箱, iOS, Apple, iPhone"
-url: "http://xiansoyuwe.github.io"          # your host, for absolute URL
+keyword: "诸葛冰箱 Blog, 诸葛冰箱的博客, 诸葛冰箱, Android, Java"
+url: "https://xiansoyuwe.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/xiansoyuwe/xiansoyuwe.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "程序/营销/自媒体!"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     xiansoyuwe
 zhihu_username:     xiansoyuwe
 github_username:    xiansoyuwe
 #facebook_username:
@@ -97,12 +97,12 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/98a935f6d7a8"
-    }
-]
+#friends: [
+#    {
+  #        title: "WY",
+  #     href: "http://zhengwuyang.com"
+  # },{
+  #     title: "简书·BY",
+  #     href: "http://www.jianshu.com/u/98a935f6d7a8"
+#  }
+#]
