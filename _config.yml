@@ -1,7 +1,7 @@
 # Site settings
 title: 诸葛冰箱
 SEOTitle: 诸葛冰箱的博客 | 诸葛冰箱
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-art.jpg
 email: djjn1314@163.com
 description: "Every failure is leading towards success."
 keyword: "诸葛冰箱 Blog, 诸葛冰箱的博客, 诸葛冰箱, Android, Java"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/xiansoyuwe/xiansoyuwe.github.io.git" # you code
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "程序/营销/自媒体"
+sidebar-about-description: "程序员/营销/自媒体"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
